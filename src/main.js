@@ -4,7 +4,7 @@ new App({
   target: document.body,
   props: {
     // What's your name?
-    name: "Jonas Meiseenburg",
+    name: "Jonas Meisenburg",
     // In the following fiels you can either give a single string,
     // or an array of bullet points
 
