@@ -8,7 +8,7 @@ pipeline {
         // Optional: Set a description for the build
         buildDescription('Build and Test Pipeline for ${env.GIT_URL}')
         // Optional: Rename the build display name
-        displayName('Yarn Build & Test #${env.BUILD_NUMBER}')
+        // displayName('Yarn Build & Test #${env.BUILD_NUMBER}')
     }
 
     stages {
